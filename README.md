@@ -13,4 +13,4 @@ Currently working as a self-employed web developer & digital marketing consultan
 Data analytics and applied ML — clustering, classification, and NLP, layered on top of the marketing and web work I already do.
 
 ## Get in touch
-📧 salaipome@gmail.com · 🔗 [linkedin.com/in/salaihang](https://linkedin.com/in/salaihang)
+🔗 [linkedin.com/in/salaihang](https://linkedin.com/in/salaihang)
