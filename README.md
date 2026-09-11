@@ -14,7 +14,7 @@ Data analytics and applied ML — clustering, classification, and NLP, layered o
 
 Fun facts
 - I drink black coffee 
-- I am a guitarist for [Echo of Grace](https://example.com](https://echoofgraceband.bandcamp.com/track/philippians-4-13))and an audio engineer at [Forte West Audio](https://audio.fortewestgroup.com/)
+- I am a guitarist for [Echo of Grace](https://echoofgraceband.bandcamp.com/track/philippians-4-13) and an audio engineer at [Forte West Audio](https://audio.fortewestgroup.com/)
 
 
 ## Get in touch
