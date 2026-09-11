@@ -13,7 +13,7 @@ Currently working as a self-employed web developer & digital marketing consultan
 Data analytics and applied ML — clustering, classification, and NLP, layered on top of the marketing and web work I already do.
 
 Fun facts
-- I drink black coffee 
+- I love coffee 
 - I am a guitarist for [Echo of Grace](https://echoofgraceband.bandcamp.com/track/philippians-4-13) and an audio engineer at [Forte West Audio](https://audio.fortewestgroup.com/)
 
 
