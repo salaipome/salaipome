@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<I build websites, run the marketing behind them, and then dig into the data afterwards to see what actually worked.
+I build websites, run the marketing behind them, and then dig into the data afterwards to see what actually worked.
 
 Currently working as a self-employed web developer & digital marketing consultant in Perth, WA — WordPress builds for trades, creative studios, small businesses and churches, plus the SEO, CRM automation and lead-gen systems that keep them running.
 
