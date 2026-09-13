@@ -13,8 +13,8 @@ Currently working as a self-employed web developer & digital marketing consultan
 Data analytics and applied ML — clustering, classification, and NLP, layered on top of the marketing and web work I already do.
 
 Fun facts
-☕️ I love coffee
-🎸 I play guitar and produce music for Echo of Grace
+- ☕️ I love coffee
+- 🎸 I play guitar and produce music for [Echo of Grace] (https://echoofgraceband.bandcamp.com/track/philippians-4-13) 
 
 
 ## Get in touch
