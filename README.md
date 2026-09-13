@@ -14,7 +14,7 @@ Data analytics and applied ML — clustering, classification, and NLP, layered o
 
 Fun facts
 - ☕️ I love coffee
-- 🎸 I play guitar and produce music for [Echo of Grace] (https://echoofgraceband.bandcamp.com/track/philippians-4-13) 
+- 🎸 I play guitar and produce music for [Echo of Grace](https://echoofgraceband.bandcamp.com/track/philippians-4-13) 
 
 
 ## Get in touch
